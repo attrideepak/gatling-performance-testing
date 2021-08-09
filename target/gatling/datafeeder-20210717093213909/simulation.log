@@ -1,0 +1,10 @@
+RUN	basic_simulation.DataFeeder	datafeeder	1626514333909	 	3.6.1
+ERROR	get a user: Failed to build request: No attribute named 'user_d' is defined 	1626514336591
+USER	user request scenario	START	1626514336572
+ERROR	get a user: Failed to build request: No attribute named 'user_d' is defined 	1626514336596
+ERROR	get a user: Failed to build request: No attribute named 'user_d' is defined 	1626514336597
+ERROR	get a user: Failed to build request: No attribute named 'user_d' is defined 	1626514336597
+ERROR	get a user: Failed to build request: No attribute named 'user_d' is defined 	1626514336597
+ERROR	get a user: Failed to build request: No attribute named 'user_d' is defined 	1626514336598
+ERROR	get a user: Failed to build request: No attribute named 'user_d' is defined 	1626514336598
+USER	user request scenario	END	1626514338611

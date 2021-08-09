@@ -1,0 +1,10 @@
+RUN	basic_simulation.DataFeeder	datafeeder	1626516721329	 	3.6.1
+USER	user request scenario	START	1626516722722
+REQUEST		get a user	1626516722787	1626516723006	OK	 
+REQUEST		get a user	1626516723104	1626516723171	OK	 
+REQUEST		get a user	1626516723174	1626516723239	OK	 
+REQUEST		get a user	1626516723242	1626516723320	KO	status.find.is(200), but actually found 304
+REQUEST		get a user	1626516723347	1626516723404	KO	status.find.is(200), but actually found 304
+REQUEST		get a user	1626516723407	1626516723470	KO	status.find.is(200), but actually found 304
+REQUEST		get a user	1626516723472	1626516723610	KO	status.find.is(200), but actually found 304
+USER	user request scenario	END	1626516725623

@@ -1,0 +1,10 @@
+{
+  "simulation": "basic_simulation.TestPostCall",
+  "simulationId": "testpostcall",
+  "start": 1626541687082,
+  "description": "",
+  "scenarios": ["Create User"],
+  "assertions": [
+
+  ]
+}

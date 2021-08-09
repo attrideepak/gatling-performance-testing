@@ -1,0 +1,10 @@
+{
+  "simulation": "basic_simulation.CheckResponseAndExtractData",
+  "simulationId": "checkresponseandextractdata",
+  "start": 1626511427428,
+  "description": "",
+  "scenarios": ["Check corelation and extract data"],
+  "assertions": [
+
+  ]
+}

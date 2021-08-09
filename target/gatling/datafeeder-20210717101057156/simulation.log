@@ -1,0 +1,10 @@
+RUN	basic_simulation.DataFeeder	datafeeder	1626516657156	hgh\\\\\\\	3.6.1
+ERROR	get a user: Failed to build request: No attribute named 'userid' is defined 	1626516658888
+USER	user request scenario	START	1626516658872
+ERROR	get a user: Failed to build request: No attribute named 'userid' is defined 	1626516658893
+ERROR	get a user: Failed to build request: No attribute named 'userid' is defined 	1626516658893
+ERROR	get a user: Failed to build request: No attribute named 'userid' is defined 	1626516658894
+ERROR	get a user: Failed to build request: No attribute named 'userid' is defined 	1626516658894
+ERROR	get a user: Failed to build request: No attribute named 'userid' is defined 	1626516658894
+ERROR	get a user: Failed to build request: No attribute named 'userid' is defined 	1626516658894
+USER	user request scenario	END	1626516660902

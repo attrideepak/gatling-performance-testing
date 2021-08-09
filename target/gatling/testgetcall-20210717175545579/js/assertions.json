@@ -1,0 +1,10 @@
+{
+  "simulation": "basic_simulation.TestGetCall",
+  "simulationId": "testgetcall",
+  "start": 1626544545579,
+  "description": "",
+  "scenarios": ["Get Menu"],
+  "assertions": [
+
+  ]
+}

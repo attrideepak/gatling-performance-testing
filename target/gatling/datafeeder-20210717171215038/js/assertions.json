@@ -1,0 +1,10 @@
+{
+  "simulation": "basic_simulation.DataFeeder",
+  "simulationId": "datafeeder",
+  "start": 1626541935038,
+  "description": "",
+  "scenarios": ["user request scenario"],
+  "assertions": [
+
+  ]
+}

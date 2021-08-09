@@ -1,0 +1,5 @@
+RUN	basic_simulation.CheckResponseAndExtractData	checkresponseandextractdata	1626511614915	sdd	3.6.1
+USER	Check corelation and extract data	START	1626511616691
+REQUEST		Get all users	1626511616773	1626511617037	OK	 
+REQUEST		Get Specific user	1626511617152	1626511617244	KO	jsonPath($.data[0].id).find.is(2), but actually found nothing
+USER	Check corelation and extract data	END	1626511617264

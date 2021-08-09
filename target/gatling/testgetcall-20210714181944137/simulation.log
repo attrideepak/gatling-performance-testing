@@ -1,0 +1,4 @@
+RUN	simulation.TestGetCall	testgetcall	1626286784137	kjbkjb	3.6.1
+ERROR	Get menu items: Failed to build request: url api.zoomcar.com/v4/menus can't be parsed into an Uri: j.l.IllegalArgumentException: api.zoomcar.com/v4/menus could not be parsed into a proper Uri, missing scheme 	1626286787287
+USER	Get Menu	START	1626286787269
+USER	Get Menu	END	1626286787307

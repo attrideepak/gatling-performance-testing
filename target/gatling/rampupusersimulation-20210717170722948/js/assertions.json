@@ -1,0 +1,10 @@
+{
+  "simulation": "basic_simulation.RampUpUserSimulation",
+  "simulationId": "rampupusersimulation",
+  "start": 1626541642948,
+  "description": "",
+  "scenarios": ["Raamp up simulation scenario"],
+  "assertions": [
+
+  ]
+}

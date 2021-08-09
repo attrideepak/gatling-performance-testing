@@ -1,0 +1,10 @@
+RUN	basic_simulation.DataFeeder	datafeeder	1626515754022	 	3.6.1
+ERROR	get a user: Failed to build request: No attribute named 'userId' is defined 	1626515756250
+USER	user request scenario	START	1626515756235
+ERROR	get a user: Failed to build request: No attribute named 'userId' is defined 	1626515756254
+ERROR	get a user: Failed to build request: No attribute named 'userId' is defined 	1626515756254
+ERROR	get a user: Failed to build request: No attribute named 'userId' is defined 	1626515756254
+ERROR	get a user: Failed to build request: No attribute named 'userId' is defined 	1626515756254
+ERROR	get a user: Failed to build request: No attribute named 'userId' is defined 	1626515756255
+ERROR	get a user: Failed to build request: No attribute named 'userId' is defined 	1626515756255
+USER	user request scenario	END	1626515758266
